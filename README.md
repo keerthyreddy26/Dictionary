@@ -2,6 +2,6 @@
 Building a dictionary using django 
 
 1. Install necessary libraries
-      bh```
+      sh```
       python manage.py PyDicitonary
       ```
